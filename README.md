@@ -22,5 +22,3 @@ Ensure that you have some sort of python and jupyter notebook environment instal
 ---
 
 The following was produced under the MIT license.
-
- - Python scripts were generated with the assistance of AI.
