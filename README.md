@@ -16,6 +16,7 @@ Ensure that you have some sort of python and jupyter notebook environment instal
 ---
   - **Step 1**: Open NeuralNetGuide.ipynb. Make sure you have jupyter notebooks on your environment.
   - **Step 2**: Select your interpreter option, and run the code blocks as you go through the article. Play with the simulations, and have fun!
+  - **NOTE**: I recommend not messing with the code in the code blocks. They are set up to help you understand the information with respect to the given topic.
 
 ## License
 ---
